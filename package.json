@@ -1,0 +1,10 @@
+{
+    "name": "Sayori",
+    "version": "0.1.0",
+    "description:": "Hi, i'm Sayori it's nice to meet you! I'm a happy sunshine that's appear in everyone life.",
+    "main": "sayori.js",
+    "author": "a lazy potato",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
